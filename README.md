@@ -51,9 +51,8 @@ The HoneyValley Academy website includes the following features:
 - **Payment Integration**:
   - Payment Form
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+##THIS PROJECT IS NOT ALLOWED TO COPY,MODIFY,OR SELL EXTERNALLY FOR BOTH PERSONAL AND PROFESSIONAL USE OTHERWISE IT WILL LEAD TO COPYRIGHT ISSUE.
+##IT HAS LEGAL LICENSE
 
 ## Contact
 
