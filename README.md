@@ -1,6 +1,6 @@
 # HoneyValley Academy Website
-THIS PROJECT IS NOT ALLOWED TO COPY,MODIFY,OR SELL EXTERNALLY FOR BOTH PERSONAL AND PROFESSIONAL USE OTHERWISE IT WILL LEAD TO COPYRIGHT ISSUE,
-IT HAS LEGAL LICENSE.
+ - THIS PROJECT IS NOT ALLOWED TO COPY,MODIFY,OR SELL EXTERNALLY FOR BOTH PERSONAL AND PROFESSIONAL USE OTHERWISE IT WILL LEAD TO COPYRIGHT ISSUE,
+ - IT HAS LEGAL LICENSE.
 
 Welcome to the HoneyValley Academy website repository! This website is designed to provide an online platform for students to explore and enroll in various creative courses, including arts, dance, music, acting, arts & crafts, and other hobbies. It includes features like user registration, login, course enrollment, payment options, workshop details, and blog posts.
 
@@ -31,7 +31,7 @@ The HoneyValley Academy website includes the following features:
 
 ### 3. **Payment Integration**
    - A secure payment system to allow students to pay for courses and workshops online.
-   - 
+
 ### 4. **Admission Form**
    - An online admission form that students can fill out and submit to apply for their desired course or workshop.
 
@@ -49,7 +49,7 @@ The HoneyValley Academy website includes the following features:
   
 - **Back-End**:
   - PHP & MySQl Database(for storing user data, course info, payments, and blogs)
-  - 
+    
 - **Payment Integration**:
   - Payment Form
 
